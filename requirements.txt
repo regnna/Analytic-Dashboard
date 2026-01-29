@@ -1,0 +1,17 @@
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+sqlalchemy[asyncio]>=2.0.25
+redis>=5.0.1
+python-dotenv>=1.0.0
+pydantic>=2.5.3
+pydantic-settings>=2.1.0
+alembic>=1.13.1
+pandas>=2.1.4
+numpy>=1.26.3
+celery>=5.3.6
+pytest>=7.4.4
+pytest-asyncio>=0.23.3
+websockets>=12.0
+python-json-logger>=2.0.7
+# Windows-compatible asyncpg alternative or use sync driver for now
+psycopg2-binary>=2.9.9
