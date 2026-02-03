@@ -43,6 +43,7 @@ Built to showcase production-grade backend engineering skills including database
 ---
 
 ## 🏗️ Architecture
+```bash
 
  ┌─────────────┐       ┌─────────────┐       ┌─────────────┐ 
 -------------------------------------------------------------
@@ -57,7 +58,7 @@ Built to showcase production-grade backend engineering skills including database
  └─────────────┘       │ created_at  │       │ created_at  │ 
  └─────────────┘       └─────────────┘                       
 
-
+```
 
 
 ---
